@@ -3,6 +3,9 @@ Author
 Sowmiya Narayan Srinath <br>
 September 2014
 
+Description
+===========
+
 TCP socket client / server application using I/O multiplexing, child processes and threads similiar to the
 inetd superserver daemon. <br>
 The server is multi threaded and the client spawns a new process for every request made. <br>
